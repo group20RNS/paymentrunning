@@ -27,7 +27,7 @@
 <img src="1.jpg" alt="" width="70%" style="margin-left:15%;">
    
 </body>
- <footer style="bottom:5px;position:absolute; width:100%;">
+ <footer style="bottom:5px;position:relative; width:100%;">
     <a href="#">FAQ</a>
     <a href="#">&copy; 2020 | RNSIT</a>
    
