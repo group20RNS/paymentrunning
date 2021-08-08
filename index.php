@@ -19,7 +19,7 @@
         <a href="Login.php">Login</a>
         <a href="index.php">Home</a>
         <a href="http://grp20.herokuapp.com">group20</a>
-        <a href="..//Hospital-Management-master">hospital</a>
+        <a href="https://hospital-oct.herokuapp.com/">hospital</a>
     </nav>
  
 <body>
